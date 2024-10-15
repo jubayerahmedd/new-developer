@@ -1,0 +1,32 @@
+
+
+
+.top-banner{
+    width: 600px;
+    background-image: url(../images/Hero-bg.png);
+    width: auto;
+    height: 652px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+button{
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+    color: wheat;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    height: 800px;
+}
