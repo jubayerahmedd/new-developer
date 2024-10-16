@@ -1,24 +1,47 @@
-
-
+.headline{
+    font-weight: 700;
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
 
 .top-banner{
     width: 600px;
     background-image: url(../images/Hero-bg.png);
     width: auto;
-    height: 652px;
+    height: 600px;
     display: flex;
     align-items: center;
     text-align: center;
 }
 
-button{
+.contact{
     border-radius: 8px;
     background: rgb(13, 19, 33);
     color: wheat;
 }
 
+.second{
+    margin-top: 50px;
+    text-align: center;
+}
 
+.web-info{
+    margin-top: 50px;
+    display: flex;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    
+}
+.info-left{
+    width: 50%;
+    text-align: center;
+}
 
+.info-right{
+    width: 50%;
+    text-align: center;
+}
 
 
 
