@@ -45,7 +45,20 @@
 a{
     text-decoration: none;
 }
+ .current-target-info{
+    display: flex;
+    height: 300px;
+    align-items: center;
+    gap: 10px;
+    background-color: rgba(127, 255, 212, 0.37);
+    text-align: left;
+ }
 
+ .html{
+    border-radius: 16px;
+    background: rgba(150, 36, 7, 0.452);
+    padding: 10px
+ }
 
 
 
